@@ -1,6 +1,6 @@
 package Ej2;
 
-public class OrdenadorTest {
+public class OrdenadorTestLindaFunez {
 
     public static void sumaPrecio(Ordenador o1, Ordenador o2){
         System.out.println(o1.getdPrecio()+o2.getdPrecio()+" euros"); 
